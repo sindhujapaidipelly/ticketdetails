@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_975361_ticketdet_tickets">x_975361_ticketdet_tickets</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TIC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-23 21:25:18</sys_created_on>
+        <sys_id>e2acf1a9c3a36a50d06ef5fc05013178</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TIC</sys_name>
+        <sys_package display_value="TicketDetails" source="x_975361_ticketdet">e6ab3529c3a36a50d06ef5fc05013189</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TicketDetails">e6ab3529c3a36a50d06ef5fc05013189</sys_scope>
+        <sys_update_name>sys_number_e2acf1a9c3a36a50d06ef5fc05013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-23 21:25:18</sys_updated_on>
+    </sys_number>
+</record_update>
