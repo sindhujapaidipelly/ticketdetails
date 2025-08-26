@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="aeacb1a9c3a36a50d06ef5fc050131ec" label="Tickets" max_length="40" name="x_975361_ticketdet_tickets" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="u_description" type="string"/>
         <element attributes="encode_utf8=false" label="Requestor" mandatory="true" max_length="32" name="requestor" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number 2" mandatory="true" max_length="40" name="number_2" type="string"/>
         <element active="false" attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
